@@ -1,7 +1,5 @@
 # Hi 👋, I'm James Cross
 
----
-
 - 🔭 I’m currently working on [my FBLA club's website](https://github.com/JWyattCross/FBLA-Website)
 
 - 🌱 I’m studying to become an **AWS certified cloud practicioner**
