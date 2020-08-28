@@ -1,5 +1,6 @@
 # Hi 👋, I'm James Cross
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jwyattcross" alt="jwyattcross" /> </p>
+
+---
 
 - 🔭 I’m currently working on [my FBLA club's website](https://github.com/JWyattCross/FBLA-Website)
 
